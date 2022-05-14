@@ -1,0 +1,10 @@
+.head {
+  margin: auto;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.head__logo{
+    
+}

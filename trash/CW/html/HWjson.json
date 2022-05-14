@@ -1,0 +1,14 @@
+{
+        "editor. tabSize": 2,
+        "window.zoomLevel": 1,
+        "editor.codeActionsOnSave": {
+            "source.fixAll": true
+    },
+        "emmet. showSuggestionsAsSnippets": true,
+        "emmet. triggerExpansionOnTab": true,
+        "emmet. includeLanguages":{
+            "javascript": "javascriptreact"
+        },
+        "prettier. semi": false,
+        "prettier.singleQuote": true
+}

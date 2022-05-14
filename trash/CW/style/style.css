@@ -1,0 +1,64 @@
+/* .container{
+    width: 500px;
+    height: 500px;
+    background-color: red;
+}
+.square{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+.square:first-child{
+    background-color: tomato;
+    left: 150px;
+    top: 150px;
+}
+.square:nth-child(2){
+    background-color: black;
+    top: 75px;
+    right: 200px;
+}
+.square:nth-child(3){
+    background-color: blue;
+
+}
+.square{
+
+} */
+
+/* 
+header{
+    position: sticky;
+    background-color: purple;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    padding: 16px;
+
+}
+h1{
+    color: aqua;
+    margin: 0;
+    padding: 0;
+} */
+
+
+   /* font-size: initial; вовзрат к заводским настройкам */
+   /*  padding: inherit; копирует падинг родительского дива */
+   /* font-size: unset;  НАследует сброс стилей */
+
+/* :root{
+    --primary-color:#ccc;
+} переменные для css упрощает работу в создании стилей и применяет ко всем командам
+ */
+    /* width: calc(100vh - 150px); */
+
+/*     .parent{
+        width: 360px;
+    }
+    .child{
+        width: 400px;
+    } */
+
+    

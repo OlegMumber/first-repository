@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+}
+ul, h1, h2, div, p, body{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
